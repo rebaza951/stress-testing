@@ -1,0 +1,21 @@
+{
+  "name": "stress-testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "async-batch": "^1.1.2",
+    "axios": "0.27.2",
+    "axios-oauth-client": "1.5.0",
+    "dotenv": "^16.0.3",
+    "lodash": "^4.17.21"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.21"
+  },
+  "keywords": [],
+  "description": ""
+}
